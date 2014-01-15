@@ -14,3 +14,12 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore application configuration
+config/application.yml
+GMAIL_USERNAME: khollie2014@gmail.com
+GMAIL_PASSWORD: Volcomstone1234
+MAILCHIMP_API_KEY: 87502fd2d32b9c15a61e63017043101c-us3
+MAILCHIMP_LIST_ID: 9c6abfe9e7
+DOMAIN_NAME: example.com
+OWNER_EMAIL: khollie@2014@gmail.com
